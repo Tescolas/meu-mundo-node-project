@@ -1,0 +1,12 @@
+{
+  "name": "ola-node",
+  "version": "1.0.0",
+  "description": "Projeto simples Node.js que imprime Olá Mundo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "hello", "mundo"],
+  "author": "Luisa",
+  "license": "MIT"
+}
